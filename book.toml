@@ -1,0 +1,8 @@
+[book]
+title = "Geometry Dash Documentation"
+authors = []
+language = "en"
+
+[output.html]
+default-theme = "dark"
+git-repository-url = "https://github.com/eallic/gd-docs"
